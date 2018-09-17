@@ -1,0 +1,16 @@
+{
+  "name": "Dashwamp",
+  "version": "1.0.0",
+  "description": "A lightweight dashboard used to manage software stack Windows, Apache, MariaDB, and PHP.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rangka Kacang",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.0-beta.12",
+    "electron-reload": "^1.2.5",
+    "uikit": "^3.0.0-rc.16"
+  }
+}
