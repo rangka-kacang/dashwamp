@@ -27,4 +27,5 @@ This project is still under development, so it's not quite ready to build yet.
 - Include latest Apache, MariaDB, and PHP packages.
 - Create a simple editor to edit config files for respective software stack (httpd.conf, mysql.ini, php.ini).
 - Create a start/stop command for each services.
+- Add extensions/addons to make it easier for users to install CodeIgniter, Laravel, WordPress and other open source PHP software from the dashboard. Probably using composer and send the function through NodeJS wintool cli?
 - Many more...
