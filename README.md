@@ -1,6 +1,8 @@
 # What is Dashwamp?
 A lightweight dashboard used to manage software stack Windows, Apache, MariaDB, and PHP.
 
+![](https://github.com/rangka-kacang/dashwamp/blob/develop/screenshot.jpg)
+
 # How to install?
 Make sure you have [NodeJS and NPM](https://www.npmjs.com/get-npm) installed on your machine.
 
