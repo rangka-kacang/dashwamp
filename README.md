@@ -4,15 +4,20 @@ A lightweight dashboard used to manage software stack Windows, Apache, MariaDB, 
 ![](https://github.com/rangka-kacang/dashwamp/blob/develop/screenshot.jpg)
 
 # How to install?
-Make sure you have [NodeJS and NPM](https://www.npmjs.com/get-npm) installed on your machine.
 
-### 1. Install [electronjs](https://electronjs.org/)
-`npm install electron@beta`
+### 1. Make sure you have [NodeJS and NPM](https://www.npmjs.com/get-npm) installed on your machine.
+`npm install`
 
-### 2. Install [electron-reload](https://www.npmjs.com/electron-reload)
+### 2. Clone develop branch from repository
+`git clone -b develop https://github.com/rangka-kacang/dashwamp.git`
+
+### 3. Install [electronjs](https://electronjs.org/)
+`npm install electron` or `npm install electron@beta`
+
+### 4. Install [electron-reload](https://www.npmjs.com/electron-reload)
 `npm install electron-reload`
 
-### 3. Install [UIkit](https://getuikit.com/)
+### 5. Install [UIkit](https://getuikit.com/)
 `npm install uikit`
 
 # How to run?
